@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: default
 title: 第四章 类与对象
 tags:
   - C++
