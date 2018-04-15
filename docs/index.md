@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
+## C++ 笔记
+
+[第四章：类与对象](Chapter04_Class.html)
