@@ -7,4 +7,10 @@ layout: default
 
 ## C++ 笔记
 
-[第四章：类与对象](Chapter04_Class.html)
+### [第二章：数据类型与流程控制](Chapter02_DataType.html)
+
+### [第三章：函数](Chapter03_Func.html)
+
+### [第四章：类与对象](Chapter04_Class.html)
+
+[关于](about.html)
