@@ -13,4 +13,6 @@ layout: default
 
 ### [第四章：类与对象](Chapter04_Class.html)
 
+### [第五章：数据的共享和保护](Chapter05_zone.html)
+
 [关于](about.html)
