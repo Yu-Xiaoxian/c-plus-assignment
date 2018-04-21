@@ -15,4 +15,6 @@ layout: default
 
 ### [第五章：数据的共享和保护](Chapter05_zone.html)
 
+### [第六章：指针与数组](Chapter06_pointer.html)
+
 [关于](about.html)
