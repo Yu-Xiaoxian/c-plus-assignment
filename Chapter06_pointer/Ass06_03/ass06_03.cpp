@@ -5,9 +5,11 @@ using namespace std;
 
 int main(){
 	int n,k;
-	int array[5000] = {0};
 
 	cin >> n >> k;
+
+	int *array = new int[n];
+
 	for(int i = 0; i < n; i++){
 		cin >> array[i];
 	}
@@ -23,6 +25,8 @@ int main(){
 	}
 
 	cout << array[k-1] << endl;
+
+	delete array;
 
 	return 0;
 }

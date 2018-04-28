@@ -10,6 +10,8 @@ public:
 /* Your code here! */
 	Yuebao(double init):balance(init){
 	}
+	Yuebao():Yuebao(0.0){}
+	Yuebao(const Yuebao &y) {}
 	void addProfit(){
 		balance += balance*_profitRate;
 	}

@@ -1,6 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
@@ -16,5 +14,17 @@ layout: default
 ### [第五章：数据的共享和保护](Chapter05_zone.html)
 
 ### [第六章：指针与数组](Chapter06_pointer.html)
+
+### [第七章：继承与派生](Chapter07_inherit.html)
+
+### [第八章：多态性](Chapter08_polymorphism.html)
+
+### [第九章：模板与群体数据](Chapter09_template.html)
+
+### [第十章：泛型程序设计与C++标准模板库](Chapter10_standard.html)
+
+### [第十一章：流类库与输入/输出](Chapter11_stream.html)
+
+### [第十二章：异常处理](Chapter12_exception.html)
 
 [关于](about.html)
