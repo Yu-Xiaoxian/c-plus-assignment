@@ -27,4 +27,4 @@ layout: default
 
 ### [第十二章：异常处理](Chapter12_exception.html)
 
-[关于](about.html)
+[关于](/about/about.html)
