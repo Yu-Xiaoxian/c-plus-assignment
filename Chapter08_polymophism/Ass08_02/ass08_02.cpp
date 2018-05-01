@@ -23,6 +23,14 @@ private:
 	double radius;
 };
 
+double Circle::getArea() {
+	return radius * radius * pi;
+}
+
+double Circle::getPerim() {
+	return 2 * radius * pi;
+}
+
 int main() {
 	double radius;
 	cin >> radius;
